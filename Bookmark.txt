@@ -1,4 +1,4 @@
 Bookmark.
 
 https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
-.NET architecture
+Types and variables
