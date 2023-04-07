@@ -1,4 +1,4 @@
 Bookmark.
 
-https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
-Types and variables
+https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types
+C# types and members
