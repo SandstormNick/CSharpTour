@@ -1,4 +1,7 @@
-﻿using acmeCol = Acme.Collections;
+﻿using DummyProject;
+using acmeCol = Acme.Collections;
+
+IAmATuple amATup = new IAmATuple();
 
 //var s = new Acme.Collections.Stack<int>();
 var s = new acmeCol.Stack<int>();
