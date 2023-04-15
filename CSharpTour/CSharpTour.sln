@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumConsole", "EnumConsole\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticAndInstanceMethods", "StaticAndInstanceMethods\StaticAndInstanceMethods.csproj", "{53185FB5-0CCB-4A52-AD02-662FD51532DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualOverrideAbstract_Methods", "VirtualOverrideAbstract_Methods\VirtualOverrideAbstract_Methods.csproj", "{AB62AB2E-4B6C-48B6-8491-57E2B276374C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtherFunctionMembers", "OtherFunctionMembers\OtherFunctionMembers.csproj", "{6471A4F9-A427-494B-98D7-8605AFE851A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{53185FB5-0CCB-4A52-AD02-662FD51532DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53185FB5-0CCB-4A52-AD02-662FD51532DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53185FB5-0CCB-4A52-AD02-662FD51532DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB62AB2E-4B6C-48B6-8491-57E2B276374C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB62AB2E-4B6C-48B6-8491-57E2B276374C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB62AB2E-4B6C-48B6-8491-57E2B276374C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB62AB2E-4B6C-48B6-8491-57E2B276374C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6471A4F9-A427-494B-98D7-8605AFE851A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6471A4F9-A427-494B-98D7-8605AFE851A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6471A4F9-A427-494B-98D7-8605AFE851A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6471A4F9-A427-494B-98D7-8605AFE851A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
