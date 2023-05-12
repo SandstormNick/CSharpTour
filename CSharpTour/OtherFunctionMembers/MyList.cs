@@ -93,5 +93,6 @@ namespace OtherFunctionMembers
 
         public static bool operator !=(MyList<T> a, MyList<T> b) =>
             !Equals(a, b);
+
     }
 }
